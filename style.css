@@ -19,6 +19,7 @@ body{
     font-size: 5rem;
     text-align: left;
     background-color: hsl(0, 0%, 20%);
+    color: white;
 }
 button{
     width: 100px;
